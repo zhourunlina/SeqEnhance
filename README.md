@@ -35,7 +35,7 @@ python evaluation_lol_v1.py --img_val_path Your_Path/eval15/low/
 Results:
 |    | SSIM  | PSNR | enhancement images |
 | -- | -- | -- | -- |
-|  results  | **0.798**  |  **23.44** | https://pan.baidu.com/s/1lNlZpHs3KJ86WL-ynj_plg   iinj |
+|  results  | **0.798**  |  **23.44** | 链接：https://pan.baidu.com/s/1lNlZpHs3KJ86WL-ynj_plg   提取码：iinj |
 
 3. Training your model on LOL-V1 dataset (get our closely result).
 
@@ -69,7 +69,7 @@ python evaluation_mit5k.py --img_path Your_Path/to/root/dataset/
 Results:
 |    | SSIM  | PSNR | enhancement images |
 | -- | -- | -- | -- |
-|  results  | **0.894**  |  **24.71** | https://pan.baidu.com/s/12DLRkAtKfv6M3PPTNyNfgA   kyn3 |
+|  results  | **0.894**  |  **24.71** | 链接：https://pan.baidu.com/s/12DLRkAtKfv6M3PPTNyNfgA   提取码：kyn3 |
 
 3. Training your model on FiveK dataset. for FiveK, you don't need create patch and directly train is OK. 
    Importantly, our data_loader will resize origin images into 600x450
